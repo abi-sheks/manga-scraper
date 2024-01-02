@@ -1,0 +1,5 @@
+/run.txt
+/.env
+/__pycache__
+/db/__pycache__
+/lib/__pycache__
